@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "github-pr-agent-coordination",
+  "version": "0.1.0",
+  "description": "Design or review safe GitHub pull-request coordination among multiple AI agents.",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "github",
+    "pull-requests",
+    "multi-agent",
+    "coordination"
+  ]
+}
